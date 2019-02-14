@@ -1,7 +1,7 @@
 # apps_shipping_colissimo_point_relais
 
 This apps allow you to display the colissimo french shipping with dom tom / international and insurance. 
-The pickup relais has been included inside with a map
+The pickup relais has been évelopped with a map
 
  - The language files in English and French Via the installation system administration ClicShopping
 
