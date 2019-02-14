@@ -46,7 +46,7 @@ Community add on : https://github.com/ClicShoppingV3Community
 trademark License info : https://www.clicshopping.org/forum/trademark/
 
 
-![image](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_colissimo_point_relais/blob/master/MouleInfosJson/image.png)
+![image](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_colissimo_point_relais/blob/master/ModuleInfosJson/image.png)
 
 
 
