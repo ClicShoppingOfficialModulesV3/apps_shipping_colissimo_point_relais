@@ -1,0 +1,29 @@
+{
+  "title":			"apps_shipping_colissimo_point_relais",
+  "type":       "apps",
+  "vendor":			"Shipping",
+  "is_free":   "no",
+  "is_core":   "no",
+  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/156-apps-shipping-colissimo-point-relais/",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "shipping, item",
+  "install":            "includes/ClicShopping/Apps/Shipping/",
+  "module_directory":   "Shipping",
+  "apps_name":          "ColissimoPointsRelais",
+  "type_module":      "Fixe",
+  "dependance":       "",
+  "description":        "This apps allow you to display the colissimo french shipping with dom tom and international. The pickup relais has been included with a map",
+ "image":            "ModuleInfosJson/image.png",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
