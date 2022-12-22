@@ -1,0 +1,6 @@
+cfg_colissimo_points_relais_status_title = Status
+cfg_colissimo_points_relais_status_description = Set True to enable or not the module
+
+cfg_colissimo_points_relais_status_true = True
+cfg_colissimo_points_relais_status_false = False
+

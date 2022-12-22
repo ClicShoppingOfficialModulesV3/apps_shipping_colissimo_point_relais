@@ -1,0 +1,5 @@
+cfg_colissimo_int_status_title = Activate Colissimo International
+cfg_colissimo_int_status_description = Activate / Desactivate Colissimo International
+
+cfg_colissimo_int_status_true = True
+cfg_colissimo_int_status_false = False

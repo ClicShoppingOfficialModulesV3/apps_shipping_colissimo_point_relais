@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_max_forage_title = Number of pickup point to display
+cfg_colissimo_points_relais_max_forage_desc = please inset the number of pickup point to display

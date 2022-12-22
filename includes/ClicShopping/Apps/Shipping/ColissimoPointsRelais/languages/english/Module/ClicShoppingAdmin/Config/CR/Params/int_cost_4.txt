@@ -1,0 +1,2 @@
+cfg_colissimo_int_cost_4_title = Colissimo Zone D (weight:price)
+cfg_colissimo_int_cost_4_desc = Price Colissimo international

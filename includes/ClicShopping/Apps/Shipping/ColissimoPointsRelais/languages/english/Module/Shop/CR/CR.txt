@@ -1,0 +1,21 @@
+module_colissimo_points_relais_title = Colissimo Points Relais French Post
+module_colissimo_points_relais_text_title = Colissimo Points Relais French Post
+
+module_colissimo_points_relais_r1_text_title = Colissimo Points Relais R1 (Insurance : 50 Euros)
+module_colissimo_points_relais_r2_text_title = Colissimo Points Relais R2 (Insurance : 200 Euros)
+module_colissimo_points_relais_r3_text_title = Colissimo Points Relais R3 (Insurance : 300 Euros)
+module_colissimo_points_relais_r4_text_title = Colissimo Points Relais R4 (Insurance : 400 Euros)
+module_colissimo_points_relais_r5_text_title = Colissimo Points Relais R5 (Insurance : 500 Euros)
+module_colissimo_points_relais_text_units = kg
+module_colissimo_points_relais_invalid_zone = This zone is not covered
+module_colissimo_points_relais_too_heavy = Too heavy for this shipping method
+module_colissimo_points_relais_int_text_description = International  Zones price
+module_colissimo_points_relais_int_text_way = Shipping to
+module_colissimo_points_relais_int_text_units = Weight (in kg)
+module_colissimo_points_relais_int_invalid_zone = This zone is not covered
+module_colissimo_points_relais_intl_undefined_rate = The shipping rate for that zone cannot be determined at this time
+
+module_colissimo_points_relais_map = Localisation
+module_colissimo_points_relais_zoom_map = Agrandir la carte
+
+

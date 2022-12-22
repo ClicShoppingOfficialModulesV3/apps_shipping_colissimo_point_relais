@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_ad_valorem_title = Frais fixe Ad valorem
+cfg_colissimo_points_relais_ad_valorem_desc = Veuillez vous référer au guide de la Laposte colissimo pour ces frais

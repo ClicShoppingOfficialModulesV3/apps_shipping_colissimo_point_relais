@@ -1,0 +1,2 @@
+cfg_colissimo_national_title = Colissimo
+cfg_colissimo_national_desc = Price TTC Colissimo without insurance

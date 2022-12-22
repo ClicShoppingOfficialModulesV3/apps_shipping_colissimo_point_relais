@@ -1,0 +1,2 @@
+cfg_colissimo_int_countries_2_title = Colissimo Zone B (pays)
+cfg_colissimo_int_countries_2_desc = Insert a comma between 2 countries ISO codes ISO with the same zone

@@ -1,0 +1,5 @@
+cfg_colissimo_r1r5_title = Selection Automatique de l'assurance
+cfg_colissimo_r1r5_description = Selon le montant du panier, il choisit le bon recommandé avec l'assurance
+
+cfg_colissimo_r1r5_status_true = True
+cfg_colissimo_r1r5_status_false = False

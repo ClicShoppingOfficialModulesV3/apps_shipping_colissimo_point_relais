@@ -1,0 +1,2 @@
+cfg_colissimo_int_countries_2_title = Colissimo Zone B (pays)
+cfg_colissimo_int_countries_2_desc = Inserer une virgule entre 2 codes ISO de pays qui font partie de la meme zone

@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_handling_title = Frais fixes
+cfg_colissimo_points_relais_handling_desc = Frais fixes (emballage) pour colissimo_points_relais

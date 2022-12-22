@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_ad_valorem_title = Ad valorem fees
+cfg_colissimo_points_relais_ad_valorem_desc = Please, look the La Poste website about this colissimo fees

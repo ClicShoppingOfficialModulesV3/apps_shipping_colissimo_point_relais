@@ -1,0 +1,2 @@
+cfg_colissimo_dom_title = Colissimo Zone DOM 1
+cfg_colissimo_dom_desc = Price TTC Colissimo Zone DOM 1 without insurance

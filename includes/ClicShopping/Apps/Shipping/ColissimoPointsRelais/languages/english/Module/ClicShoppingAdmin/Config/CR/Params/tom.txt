@@ -1,0 +1,2 @@
+cfg_colissimo_tom_title = Colissimo Zone TOM 1
+cfg_colissimo_tom_desc = Price TTC Colissimo Zone TOM 1 without insurance

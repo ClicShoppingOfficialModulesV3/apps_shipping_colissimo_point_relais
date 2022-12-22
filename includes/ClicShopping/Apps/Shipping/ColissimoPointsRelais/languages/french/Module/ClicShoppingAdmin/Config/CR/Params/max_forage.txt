@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_max_forage_title = Nombre de points relais à afficher
+cfg_colissimo_points_relais_max_forage_desc = Veuillez le nombre de points relais qui sera affiché

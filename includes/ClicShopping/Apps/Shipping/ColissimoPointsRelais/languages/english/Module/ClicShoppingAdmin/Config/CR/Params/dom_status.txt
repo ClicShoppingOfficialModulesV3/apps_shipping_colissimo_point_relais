@@ -1,0 +1,5 @@
+cfg_colissimo_dom_status_title = Activate Colissimo DOM
+cfg_colissimo_dom_status_description = Activate / Desactivate Colissimo dans les DOM
+
+cfg_colissimo_dom_status_true = True
+cfg_colissimo_dom_status_false = False

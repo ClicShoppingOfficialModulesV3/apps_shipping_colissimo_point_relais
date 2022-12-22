@@ -1,0 +1,5 @@
+cfg_colissimo_r1r5_title = Automatic selection with insurance
+cfg_colissimo_r1r5_description = Choose the good selection in according the amount of the basket with insurance
+
+cfg_colissimo_r1r5_status_true = True
+cfg_colissimo_r1r5_status_false = False

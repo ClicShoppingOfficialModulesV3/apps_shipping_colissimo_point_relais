@@ -1,0 +1,5 @@
+cfg_colissimo_tom_status_title = Activate Colissimo TOM
+cfg_colissimo_tom_status_description = Activate / Desactivate Colissimo dans les TOM
+
+cfg_colissimo_status_tom_true = True
+cfg_colissimo_status_tom_false = False

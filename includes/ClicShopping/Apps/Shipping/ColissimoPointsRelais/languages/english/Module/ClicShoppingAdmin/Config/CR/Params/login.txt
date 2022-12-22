@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_login_title = Login
+cfg_colissimo_points_relais_login_desc = Colissimo login

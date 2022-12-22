@@ -1,0 +1,2 @@
+cfg_colissimo_tom_title = Colissimo Zone TOM 1
+cfg_colissimo_tom_desc = Tarif TTC Colissimo Zone TOM 1 sans assurance

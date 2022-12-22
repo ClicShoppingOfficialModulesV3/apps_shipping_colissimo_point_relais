@@ -1,0 +1,2 @@
+cfg_colissimo_points_relais_handling_title = handling fees
+cfg_colissimo_points_relais_handling_desc = handling fees

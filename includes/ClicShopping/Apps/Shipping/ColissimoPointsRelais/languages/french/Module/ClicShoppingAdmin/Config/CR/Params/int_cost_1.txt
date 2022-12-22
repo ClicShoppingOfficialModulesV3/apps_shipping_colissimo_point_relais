@@ -1,0 +1,2 @@
+cfg_colissimo_int_cost_1_title = Colissimo Zone A (poids:tarifs)
+cfg_colissimo_int_cost_1_desc = Tarifs Colissimo international
